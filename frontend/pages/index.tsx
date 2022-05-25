@@ -1,7 +1,11 @@
+import Content from "../components/Content";
+import Layout from "../components/Layout";
+
 export default function Index() {
   return (
     <div>
-      <h1>Primeiro commit configurado</h1>
+      <Layout>
+      </Layout>
     </div>
   )
 }
